@@ -41,13 +41,7 @@ Sistem logistik teknis untuk menjamin efisiensi operasional dan profitabilitas.
 
 ## 🛠️ Teknologi yang Digunakan
 *(Silakan sesuaikan dengan stack teknologi riil Anda)*
-* **Frontend:** [HTML/CSS/JS / React / Flutter / dll]
-* **Backend:** [Python Flask / Node.js / PHP Laravel / dll]
-* **Database:** [MySQL / PostgreSQL / MongoDB]
+* **Frontend:** [HTML/CSS/JS / ]
+* **Backend:** [Node.js ]
+* **Database:** [MySQL]
 * **Layanan Eksternal:** Google Maps API (Untuk Tracking & Optimalisasi Rute)
-
-## 🚀 Panduan Instalasi (Pengembangan Lokal)
-
-1. **Clone repositori ini**
-```bash
-   git clone [https://github.com/username-anda/bantu-buang.git](https://github.com/username-anda/bantu-buang.git)
